@@ -11,4 +11,4 @@ function changeCompletely(element, index, array) {
 //
 // var animals = ["dog", "cat", "squirrel"]
 
-changeCompletely(animals, changeCompletely)
+// changeCompletely(animals, changeCompletely)
